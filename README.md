@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning Express Js & Python
 - 💞️ I’m looking to collaborate on Node, React and Django Projects
 - 😄 Pronouns: he/him
-[LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)  [Upwork](https://www.upwork.com/freelancers/~YOUR_UPWORK_ID)  [Email](mailto:your-email@example.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE)
+- [![Upwork](https://img.shields.io/badge/Upwork-%2317B2A2.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~YOUR_UPWORK_ID)
+- [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avocademia&show_icons=true&theme=radical) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avocademia&layout=compact&hide=html)
