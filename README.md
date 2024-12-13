@@ -3,11 +3,13 @@
 - 🌱 I’m currently learning Express Js & Python
 - 💞️ I’m looking to collaborate on Node, React and Django Projects
 - 😄 Pronouns: he/him
+[LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)  [Upwork](https://www.upwork.com/freelancers/~YOUR_UPWORK_ID)  [Email](mailto:your-email@example.com)
 
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avocademia&show_icons=true&theme=radical) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avocademia&layout=compact&hide=html)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avocademia&show_icons=true&theme=radical) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avocademia&layout=compact&hide=html)
 
 
-- ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
