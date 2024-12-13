@@ -14,7 +14,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 
-![Animated Arrow](https://i.imgur.com/dFNKoGX.gif)
+![Animated Downward Arrow](https://i.imgur.com/dFNKoGX.gif)
 
 
 
