@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on Node, React and Django Projects
 - 😄 Pronouns: he/him
 
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avocademia&show_icons=true&theme=radical)
-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avocademia&layout=compact&hide=html)
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avocademia&show_icons=true&theme=radical) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avocademia&layout=compact&hide=html)
 
 
 - ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
