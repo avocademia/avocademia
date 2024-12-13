@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Node, React and Django Projects
 - 😄 Pronouns: he/him
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE)
-- [![Upwork](https://img.shields.io/badge/Upwork-%2317B2A2.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~YOUR_UPWORK_ID)
-- [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Upwork](https://img.shields.io/badge/Upwork-%2317B2A2.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~YOUR_UPWORK_ID)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 
 
