@@ -10,7 +10,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avocademia&show_icons=true&theme=radical) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avocademia&layout=compact&hide=html)
-https://github-readme-streak-stats.herokuapp.com/?user=avocademia&theme=radical
+![MORE_STATS](https://github-readme-streak-stats.herokuapp.com/?user=avocademia&theme=radical)
 
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
