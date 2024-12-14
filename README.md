@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jotham Jami Ogeya
 - 👀 I’m interested in SaaS & PaaS Development
-- 🌱 I’m currently learning Express Js & Python
+- 🌱 I’m currently learning Express Js & Next Js
 - 💞️ I’m looking to collaborate on Node, React and Django Projects
 - 😄 Pronouns: he/him
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE)
